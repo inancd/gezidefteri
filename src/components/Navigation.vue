@@ -4,7 +4,7 @@
       <div class="navbar-logo">
         <img src="../assets/img/logotravel.png" alt="">
       </div>
-      <div class="collapse">
+      <div class="collapse ">
         <ul class="navbar-nav">
           <li class="navbar-nav__item">
             <router-link to="/" class="navbar-nav__link">Gidilecek Yerler</router-link>

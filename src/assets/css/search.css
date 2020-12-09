@@ -1,5 +1,8 @@
 .dv-slider {
-  background-color: aquamarine;
+  background: url(../assets/img/artboard.jpg);
+  background-position-x: center;
+  background-position-y: 35%;
+  background-size: cover;
   width: 100%;
   height: 80vh;
 }
